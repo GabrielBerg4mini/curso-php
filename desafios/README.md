@@ -7,7 +7,7 @@
 ### Challenges:
 
 <p align="center">
-    <video src="assets-readme/video-exercicio.mp4" controls autoplay></video>
+    <img src="assets-readme/video-exercicio.mp4" controls autoplay></img>
 </p>
 
 ## In this project, I used PHP,JavaScript, HTML, CSS and Git .
