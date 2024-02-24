@@ -7,7 +7,7 @@
 
   <link rel="stylesheet" href="style.css" />
 
-  <title>Divisor e Dividendo</title>
+  <title>Desafio 06</title>
 </head>
 
 <body>
