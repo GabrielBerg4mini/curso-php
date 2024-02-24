@@ -15,9 +15,6 @@
         <section>
             <h1>Trabalhando com número aleatórios</h1>
 
-
-
-
             <?php
             $min = 0;
             $max = 100;

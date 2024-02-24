@@ -16,8 +16,6 @@
 
             <h1>Resultado Final</h1>
 
-
-
             <p>
                 <?php
                 $numeroDigitado = $_REQUEST['number'] ?? 0;

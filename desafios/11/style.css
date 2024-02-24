@@ -35,8 +35,7 @@ header > h1 {
 }
 
 main,
-section,
-article {
+section {
   background-color: white;
   padding: 15px;
   margin-bottom: 20px;
@@ -49,13 +48,13 @@ p {
   line-height: 1.5em;
 }
 
-h2,
-h3,
-h4 {
+h2 {
   color: #372991;
   margin: 0 0 10px 0;
 }
-
+ul > li::marker {
+  color: #372991;
+}
 /* ELEMENTOS DE FORMULÁRIO */
 
 form {
@@ -76,7 +75,8 @@ form label {
   border-radius: 5px;
 }
 
-input[type="number"] {
+input[type="number"],
+input[type="range"] {
   width: 100%;
   padding: 12px 20px;
   font-size: 1em;
@@ -85,10 +85,6 @@ input[type="number"] {
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-}
-
-input[type="range"] {
-  background: red;
 }
 
 input[type="submit"] {
